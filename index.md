@@ -18,8 +18,8 @@
   + UX/UI 디자인  
 
 ## 인턴경력
-> 1. ### **[Google][2]  (UX Engineer Intern**  2027.01 ~ 2027.06)  
-> 2. ### **[삼성전자][3] (UX Engineering Intern** 2027.8 ~ 2027.12)
+> 1. ### **[Google][2]  (UX Engineer Intern**,  2027.01 ~ 2027.06)  
+> 2. ### **[삼성전자][3] (UX Engineering Intern**, 2027.8 ~ 2027.12)
 
 ## 프로젝트 경험
 
@@ -30,7 +30,7 @@
 >    - 사용자의 경험을 입력하면 AI가 최적의 UX 레이아웃을 추천해 주는 웹 서비스 개발  
 >    - **Stack**: Next.js, TypeScript, OpenAI API, Tailwind CSS
 
-## 자격증:
+## 자격증
 >    - Google UX Design Professional Certificate
 >    - SQL 개발자 (SQLD)
 >    - 빅데이터 분석기사 (Big Data Analytics Engineer)
